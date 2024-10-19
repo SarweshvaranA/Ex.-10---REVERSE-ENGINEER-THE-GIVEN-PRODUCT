@@ -35,7 +35,8 @@
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/9b8a6136-bd0a-4e05-a3ec-d18166ce00ec)
+![image](https://github.com/user-attachments/assets/b73df703-cf9d-4812-bbd9-aaecc4f8dd79)
+
 
 
 ### Name: SARWESHVARAN A
