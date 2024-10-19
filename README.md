@@ -35,7 +35,7 @@
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/b73df703-cf9d-4812-bbd9-aaecc4f8dd79)
+![image](https://github.com/user-attachments/assets/a1fd374f-1c2e-45fa-99ec-33346849dca5)
 
 
 
