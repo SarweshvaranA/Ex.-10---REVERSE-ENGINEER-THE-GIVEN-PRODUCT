@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. no 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,8 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2024-10-10 at 16 07 42_44bb5388](https://github.com/user-attachments/assets/05b9f7cd-fa95-49eb-8054-1f2e8a2dcd1b)
 
 ### Output:
+
+![image](https://github.com/user-attachments/assets/28d914de-34d7-46b5-b89b-ae8fdebb91b4)
 
 
 ### Name:
